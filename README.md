@@ -1,6 +1,6 @@
 # HomeworkW11
  
-Process Reflection
+## Process Reflection
 When I started working on this code, I wasnt entirely confident about how to map the timing logic to control the LEDs in the specific pattern I envisioned. I knew what I wanted—D7 to light up at 10 seconds, D8 and D9 at 20 seconds, and D10, D11, and D12 at 30 seconds—but translating that into a program required a bit of trial and error. It felt a little daunting initially, but I was excited to make it work.
 
 I began by setting up the array of pins for the LEDs, making sure they corresponded correctly to the pins I was using on the board. That part was straightforward and familiar. The challenge started when I had to implement the logic for the timing and sequencing of the LEDs. I had to figure out how to calculate the elapsed time in a way that matched the 10-second intervals I needed and how to ensure the LEDs lit up in groups at the right times.
@@ -23,7 +23,7 @@ two led
 three led 
 [![IMG-1709.avif](https://i.postimg.cc/4yyvzQ9J/IMG-1709.avif)](https://postimg.cc/8f8rGW43)
 
-I think the main challenge I faced was pinpointing the exact LED to ensure the lights lit up in the precise chronological order I wanted.
+I think the main challenge I faced was pinpointing the exact LED to ensure the lights lit up in the precise chronological order I wanted as well as the inconsistency of brightness. 
 
 
 [![Untitled-Artwork-20.png](https://i.postimg.cc/wjxw2qqw/Untitled-Artwork-20.png)](https://postimg.cc/D8DQyKbG)
