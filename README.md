@@ -23,7 +23,7 @@ two led
 three led 
 [![IMG-1709.avif](https://i.postimg.cc/4yyvzQ9J/IMG-1709.avif)](https://postimg.cc/8f8rGW43)
 
-I think the main challenge I faced was pinpointing the exact LED to ensure the lights lit up in the precise chronological order I wanted.
+I think the main challenge I faced was pinpointing the exact LED to ensure the lights lit up in the precise chronological order I wanted as well as the inconsistency of brightness. 
 
 
 
