@@ -26,7 +26,7 @@ three led
 I think the main challenge I faced was pinpointing the exact LED to ensure the lights lit up in the precise chronological order I wanted.
 
 
-
+[![Untitled-Artwork-20.png](https://i.postimg.cc/wjxw2qqw/Untitled-Artwork-20.png)](https://postimg.cc/D8DQyKbG)
 
 
 
